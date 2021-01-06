@@ -2,7 +2,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/analiviafr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> <a target="_blank" href="mailto:analiviafr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> ![](https://visitor-badge.glitch.me/badge?page_id=analiviafr)
 <i class="fab fa-linkedin"></i>
 
-:computer: Python Developer at SciCrop®
+:computer: Junior Consultant at Via Consulting
 <br> :mortar_board: Computer Engineering student at UTFPR
 <br> :robot: Enthusiast in data science and artificial intelligence
 
